@@ -1,0 +1,15 @@
+{
+  "name": "traiden-x-landing",
+  "version": "1.0.0",
+  "description": "Landing page for TrAIden X",
+  "main": "public/index.html",
+  "scripts": {
+    "start": "live-server public",
+    "test": "echo \"Errors are not implemented yet\""
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+   "live-server": "^4.0.0.0"
+  }
+}
